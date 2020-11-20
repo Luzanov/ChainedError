@@ -1,0 +1,3 @@
+# ChainedError
+
+ChainedError protocol declaration.
